@@ -1,5 +1,5 @@
 ![Colorful Pastel Modern Personal LinkedIn Banner](https://github.com/Vaishnavi639/Vaishnavi639/assets/127540530/0be0d6ef-ef89-4545-ac90-3041127d5bfc)
-<h1 align="center">Hi 👋, I'm Vaishnavi Pangare (aka Chikoo)</h1>
+<h1 align="center">Hi 👋, I'm Vaishnavi Pangare</h1>
 <h3 align="center">DevOps & Cloud Engineering Enthusiast | AWS | Kubernetes | Terraform | CI/CD</h3>
 
 ---
