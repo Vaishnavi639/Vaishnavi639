@@ -90,4 +90,3 @@
 
 ---
 
-✨ _“Building scalable cloud infra, one YAML file at a time.”_
